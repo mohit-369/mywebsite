@@ -362,6 +362,7 @@ footer{
 /* sub footer */
 .sub-footer{
     justify-content: space-evenly;
+    flex-wrap:wrap;
     padding: 20px var(--padding-inline-section);
 
 
