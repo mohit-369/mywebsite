@@ -368,7 +368,8 @@ footer{
 
 }
 .subfooter{
-    background-color: #b9cde4;;
+    background-color: #b9cde4;
+    flex-wrap:wrap;
 }
 .sub-footer-left{
     gap: 20px;
